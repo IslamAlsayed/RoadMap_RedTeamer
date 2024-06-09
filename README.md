@@ -1,61 +1,61 @@
 ## RoadMap Cyber Security "RedTeamer"
 
-### '\*' OS & Networking
+### * OS & Networking
 
-### '\_' Basic OS & Networking
+### - Basic OS & Networking
 
-### '\_''\_' Basic Concepts of Operating Systems
+### -- Basic Concepts of Operating Systems
 
-### '\_' Process Management
+### - Process Management
 
-### '\_''\_' Processes and Threads
+### -- Processes and Threads
 
-### '\_''\_' Process Scheduling
+### -- Process Scheduling
 
-### '\_' Memory Management
+### - Memory Management
 
-### '\_''\_' Primary Memory
+### -- Primary Memory
 
-### '\_''\_' Virtual Memory
+### -- Virtual Memory
 
-### '\_' File Systems
+### - File Systems
 
-### '\_''\_' File and Directory Management
+### -- File and Directory Management
 
-### '\_' I/O Management
+### - I/O Management
 
-### '\_''\_' Input/Output Devices
+### -- Input/Output Devices
 
-### '\_''\_' Device Drivers
+### -- Device Drivers
 
-### '\_' Security and Protection
+### - Security and Protection
 
-### '\_''\_' Access Control Policies
+### -- Access Control Policies
 
-### '\_''\_' Permissions
+### -- Permissions
 
-### '\_' Inter-Process Communication
+### - Inter-Process Communication
 
-### '\_''\_' IPC
+### -- IPC
 
-### '\_''\_''\_' Pipes
+### --- Pipes
 
-### '\_''\_''\_' Shared Memory
+### --- Shared Memory
 
-### '\_''\_''\_' Messages
+### --- Messages
 
-### '\*' OWASP top 10 Web + Mobile
+### * OWASP top 10 Web + Mobile
 
-### '\*' Bug Hunter
+### * Bug Hunter
 
-### '\*' Junior Penetration tester
+### * Junior Penetration tester
 
-### '\*' OSCP
+### * OSCP
 
-### '\*' CRTP/E
+### * CRTP/E
 
-### '\*' OSEP
+### * OSEP
 
-### '\*' SpecterOps
+### * SpecterOps
 
-## '\*' Red Teamer '\*'
+## * Red Teamer *
