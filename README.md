@@ -1,59 +1,58 @@
 ## RoadMap Cyber Security "RedTeamer"
 
-Markup :  ** Basic OS & Networking
+- Basic OS & Networking
 
-                * Basic Concepts of Operating Systems
+- Basic Concepts of Operating Systems
 
-          * Basic Concepts of Operating Systems
+- Process Management
 
-          * Process Management
-                * Processes and Threads
-                * Process Scheduling
-                    * Sub-nested bullet etc
+  - Processes and Threads
+  - Process Scheduling
+    - Sub-nested bullet etc
 
-          * Bullet list item 2
+- Bullet list item 2
 
-          * Process Management
-              * Processes and Threads
-              * Process Scheduling
+- Process Management
 
-          * Memory Management
-               * Primary Memory
-               * Virtual Memory
+  - Processes and Threads
+  - Process Scheduling
 
-          * File Systems
-               * File and Directory Management
+- Memory Management
 
-          * I/O Management
-               * Input/Output Devices
-               * Device Drivers
+  - Primary Memory
+  - Virtual Memory
 
-          * Security and Protection
-               * Access Control Policies
-               * Permissions
+- File Systems
 
-          * Inter-Process Communication
-               * IPC
-                   * Pipes
-                   * Shared Memory
-                   * Messages
+  - File and Directory Management
 
-         ** OWASP top 10 Web + Mobile
+- I/O Management
 
-         ** Bug Hunter
+  - Input/Output Devices
+  - Device Drivers
 
-         ** Junior Penetration tester
+- Security and Protection
 
-         ** OSCP
+  - Access Control Policies
+  - Permissions
 
-         ** CRTP/E
+- Inter-Process Communication
 
-         ** OSEP
+  - IPC
+    - Pipes
+    - Shared Memory
+    - Messages
 
-         ** SpecterOps
+- OWASP top 10 Web + Mobile
 
-### * OSEP
+- Bug Hunter
 
-### * SpecterOps
+- Junior Penetration tester
 
-## * Red Teamer *
+- OSCP
+
+- CRTP/E
+
+- OSEP
+
+- SpecterOps
